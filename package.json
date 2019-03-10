@@ -1,0 +1,16 @@
+{
+  "name": "postal_calc",
+  "version": "1.0.0",
+  "description": "Postal calculator week 9",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Gardner",
+  "license": "ISC",
+  "dependencies": {
+    "ejs": "^2.6.1",
+    "express": "^4.16.4"
+  }
+}
